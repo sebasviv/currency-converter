@@ -18,7 +18,12 @@ npm install
 
 ## 3. Ejecutar el proyecto
 ```
-node index.mjs
+npm run start
+```
+
+## 4. Ejecutar test unitarios
+```
+npm run test
 ```
 
 Elaborado por: Sebastian Viveros
